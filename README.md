@@ -4,7 +4,8 @@ Metodologías y tipos de prueba GOF
 Esto es un conjunto de patrones los cuales nos permiten resolver problemas en el ámbito del desarrollo de software, estos presentan un conjunto de pautas y soluciones para poder abordar desafíos de software orientado a objetos, de estos existen 3 tipos 
 1.	Los patrones de creación: básicamente se encargan de la creación de objetos y los más conocido en este ámbito son el patrón singleton, Factory method y el patrón builder 
 2.	Patrones de estructura: estos nos permiten componer clases y objetos para formar estructuras grandes en este ámbito los más conocidos son Adapter, el patrón Composite y el patrón Decorator
-3.	Patrones de comportamientos: estos se centran en crear objetos y asignar responsabilidades, los más conocidos son el Observer, el patrón Strategy y el patrón Template Method.
+3.	Patrones de comportamientos: estos se centran en crear objetos y asignar responsabilidades, los más conocidos son el Observer, el patrón Strategy y el patrón Template Method.[Metodologías y tipos de prueba GOF.docx](https://github.com/Pato13123/infografias-y-gof/files/11537917/Metodologias.y.tipos.de.prueba.GOF.docx)
+
 •	TIPOS DE PRUEBA
 Existen varios tipos de prueba pero normalmente los mas utilizados y los mas comunes son:
 	Pruebas unitarias o de testing: prueban componentes del software para verificar que funcione correctamente
